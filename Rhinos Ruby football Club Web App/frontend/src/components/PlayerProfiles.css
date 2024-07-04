@@ -1,0 +1,8 @@
+.player-card {
+    transition: transform 0.2s;
+  }
+  
+  .player-card:hover {
+    transform: scale(1.05);
+  }
+  

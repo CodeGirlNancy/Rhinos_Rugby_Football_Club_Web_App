@@ -1,0 +1,6 @@
+.custom-navbar {
+    background-image: url('/path/to/your/navbar-background.jpg');  /* Update the path to your image */
+    background-size: cover;
+    background-position: center;
+  }
+  
